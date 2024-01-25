@@ -3,9 +3,9 @@ How to install Computer Programs in Seismology？如何安装CPS？
 
 If copyright infringement or offense occurs to you, please contact me to remove it. For study purposes only, commercial use is prohibited.如果侵权或冒犯到您，请联系我删除。仅用于学习用途，禁止商用。
 
- 1.看我安装centos7的教程后，在centos中安装CPS
+1.看我安装centos7的教程后，在centos中安装CPS
 
- 2.先看 CPS330安装教程.pdf 后再看 文件说明.png
+2.先看 CPS330安装教程.pdf 后再看 文件说明.png
 
 3. start_cps_backpup已经更名为 cps. 反演时在终端窗口中输入：bash cps再按回车即可
 
