@@ -5,6 +5,6 @@ If copyright infringement or offense occurs to you, please contact me to remove 
 
 1.看我安装centos7的教程后，在centos中安装CPS
 
-2.CPS的文件夹含义看图片
+2.先看 CPS330安装教程.pdf 后再看 文件说明.png
 
 3.
