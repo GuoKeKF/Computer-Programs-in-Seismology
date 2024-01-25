@@ -1,0 +1,12 @@
+9_1.disp是准备的输入文件，频散曲线的信息
+model.txt是初始模型
+sobs.d设置反演的输入文件名
+反演时输入命令：bash cps
+
+
+注意:请确保下载的CPS330文件夹的 PROGRAMS.330/bin 中所有内容已经存在于/usr/local/bin/和/usr/bin/文件夹中
+     若没有存在，则在bash窗口中输入:sudo cp /home/guoke/PROGRAMS.330/bin/*  /usr/local/bin/
+ 			           sudo cp /home/guoke/PROGRAMS.330/bin/*  /usr/bin/
+					其中/home/guoke/是PROGRAMS.330/bin/在linux系统中的路径
+
+SURF96格式说明在CPS330O文件第19页，60页，63页
