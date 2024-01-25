@@ -18,3 +18,5 @@ If copyright infringement or offense occurs to you, please contact me to remove 
 7. model.txt中的H(KM) 是厚度，DEPTH是深度，厚度=下一层深度-上一层深度。所有厚度总和等于最后一层深度，所以第一层厚度和最后一层厚度不用前面的公式，随便凑到加上其他厚度等于最后一层深度即可。
 
 8. 反演其他面波，请参考SURF96格式说明，在CPS330O文件第19页，60页，63页。
+
+9. 一个反演文件夹example中至少需要放入9_1.disp  CPS  model.txt   sobs.d 这四个文件，在example文件夹中右键单击打开终端(bash)。
